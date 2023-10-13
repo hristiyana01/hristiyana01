@@ -1,17 +1,18 @@
 ### Hi, I'm Hristiyana! 👋
 #### I'm a Software Engineer Student.
-<!--
-**hristiyana01/hristiyana01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on developing my Diploma work for my Bachelor Degree.
+- 🌱 I’m currently learning SpringBoot and how to create a web application.
 
-- 🔭 I’m currently working on developing my Dimplom work for my Bachelor Degree
-- 🌱 I’m currently learning SpringBoot, how to create a web application.
-[![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
-- 👯 I’m looking to collaborate on ...
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,mysql,postman,kubernetes,docker,firebase,spring,java&theme=light&perline=3" alt="Skills"/>
+  </a>
+</p>
+
+<!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ...->
