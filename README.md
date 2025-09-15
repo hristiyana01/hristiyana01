@@ -1,8 +1,8 @@
 ### Hi, I'm Hristiyana! 👋
-#### I'm a Software Engineer Student.
+#### I'm a Software Engineer.
 
-- 🔭 I’m currently working on developing my Diploma work for my Bachelor Degree.
-- 🌱 I’m currently learning SpringBoot and how to create a web application.
+- 🔭 I’m currently working on developing my Diploma work for my Master Degree.
+- 🌱 I’m currently working with .NET and creating a product web application.
 
 <p align="center">
   <a href="https://skillicons.dev">
